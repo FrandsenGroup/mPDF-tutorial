@@ -252,6 +252,6 @@ _atom_site_fract_z
 _atom_site_B_iso_or_equiv
 _atom_site_occupancy
 _atom_site_attached_hydrogens
-Mn1 Mn2+ 4 a 0 0 0 0.617(5) 1. 0
-O1 O2- 4 b 0.5 0.5 0.5 0.72(1) 1. 0
+Mn1 Mn 4 a 0 0 0 0.617(5) 1. 0
+O1 O 4 b 0.5 0.5 0.5 0.72(1) 1. 0
 #End of TTdata_9864-ICSD
